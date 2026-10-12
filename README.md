@@ -49,7 +49,7 @@ I'm a BBIT student at Virtual University of Pakistan, passionate about building 
 ### Portfolio Website
 A personal portfolio showcasing my web development skills and projects.
 
-- 🌐 [Live Website]([https://shawaizirshad.netlify.app/])
+- 🌐 [Live Website](https://shawaizirshad.netlify.app/)
 
 ### More Projects
 Explore my repositories to see more of my work.
