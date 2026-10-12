@@ -9,7 +9,7 @@ I'm a BBIT student at Virtual University of Pakistan, passionate about building 
 - 🌱 Learning modern frontend and backend development
 - 💡 Interested in Web Development, UI/UX, and Data Analysis
 - 🎯 Goal: Build real-world projects and grow as a developer
-- 🌐 Portfolio: [Visit My Website]([https://shawaiz-ten.vercel.app](https://shawaizirshad.netlify.app/))
+- 🌐 Portfolio: [Visit My Website]([https://shawaizirshad.netlify.app/])
 - 📧 Email: [Contact Me](mailto:shawaizirshad00@gmail.com)
 
 ---
@@ -49,7 +49,7 @@ I'm a BBIT student at Virtual University of Pakistan, passionate about building 
 ### Portfolio Website
 A personal portfolio showcasing my web development skills and projects.
 
-- 🌐 [Live Website]([https://shawaiz-ten.vercel.app](https://shawaizirshad.netlify.app/))
+- 🌐 [Live Website]([https://shawaizirshad.netlify.app/])
 
 ### More Projects
 Explore my repositories to see more of my work.
