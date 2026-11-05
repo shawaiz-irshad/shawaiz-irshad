@@ -1,20 +1,21 @@
- <!-- Profile README for github.com/shawaiz-irshad -->
+ 
+<!-- Profile README for github.com/shawaiz-irshad -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e2b,50:047857,100:34d399&height=220&section=header&text=Shawaiz%20Irshad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Shawaiz Irshad - Web Developer GitHub profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B14,50:6F4E37,100:C08A5C&height=220&section=header&text=Shawaiz%20Irshad&fontSize=48&fontColor=F5E6D3&fontAlignY=38&desc=Web%20Developer%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Shawaiz Irshad - Web Developer GitHub profile banner"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Node.js;Learning+Full-Stack+Development;Turning+Ideas+Into+Code" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C08A5C&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Node.js;Learning+Full-Stack+Development;Turning+Ideas+Into+Code" alt="Animated typing introduction"/>
 </a>
 
 <p>
-<a href="https://shawaizirshad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Shawaiz Irshad's portfolio"/></a>
-<a href="mailto:shawaizirshad00@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-064e3b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shawaiz Irshad"/></a>
+<a href="https://shawaizirshad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6F4E37?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Shawaiz Irshad's portfolio"/></a>
+<a href="mailto:shawaizirshad00@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-2B1B14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shawaiz Irshad"/></a>
 <a href="https://github.com/shawaiz-irshad"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow Shawaiz on GitHub"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shawaiz-irshad&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="GitHub profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shawaiz-irshad&style=flat-square&color=6F4E37&label=PROFILE+VIEWS" alt="GitHub profile views"/>
 
 </div>
 
@@ -100,16 +101,16 @@ I'm continuously working on projects to improve my frontend development, program
 <div align="center">
 
 <a href="https://github.com/shawaiz-irshad">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shawaiz-irshad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9&rank_icon=github" alt="Shawaiz Irshad's GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shawaiz-irshad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C08A5C&icon_color=C08A5C&text_color=F5E6D3&rank_icon=github" alt="Shawaiz Irshad's GitHub statistics"/>
 </a>
 
 <a href="https://github.com/shawaiz-irshad">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaiz-irshad&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9" alt="Most-used programming languages on GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaiz-irshad&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C08A5C&text_color=F5E6D3" alt="Most-used programming languages on GitHub"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shawaiz-irshad&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=shawaiz-irshad&theme=dark&hide_border=true&background=0D1117&ring=C08A5C&fire=C08A5C&currStreakLabel=C08A5C" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -130,14 +131,14 @@ Virtual University of Pakistan — Currently Pursuing
 I'm always interested in learning, collaborating on projects, and connecting with other developers.
 
 <a href="https://github.com/shawaiz-irshad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://shawaizirshad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio"/></a>
+<a href="https://shawaizirshad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6F4E37?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio"/></a>
 <a href="mailto:shawaizirshad00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:047857,100:052e2b&height=120&section=footer" width="100%" alt="Emerald animated-style footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C08A5C,50:6F4E37,100:2B1B14&height=120&section=footer" width="100%" alt="Coffee brown footer banner"/>
 
-**"Building, learning, and improving — one project at a time."** 💚
+**"Building, learning, and improving — one project at a time."** ☕
 
 ⭐ If you like my work, consider following me on GitHub!
 
